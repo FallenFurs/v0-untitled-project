@@ -1581,17 +1581,17 @@ export default function Home() {
         </h1>
 
         <div className="grid grid-cols-1 gap-5 max-w-md mx-auto w-full">
-          <a href="#about" className="w-full">
+          <a href="https://vrchat.com/home/group/grp_2c51f675-5c99-4da9-a6f7-2cfb5440bbac" target="_blank" rel="noopener noreferrer" className="w-full">
             <button
-              className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40 
-            bg-gradient-to-br from-indigo-950/80 via-purple-950/80 to-blue-950/80 border border-indigo-400
-            hover:shadow-[0_0_25px_rgba(129,140,248,0.5)] hover:border-indigo-300 transition-all duration-300 rounded-md"
+              className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40
+            bg-gradient-to-br from-blue-950/80 via-indigo-950/80 to-violet-950/80 border border-blue-400
+            hover:shadow-[0_0_25px_rgba(96,165,250,0.5)] hover:border-blue-300 transition-all duration-300 rounded-md"
             >
-              <span className="relative z-10">About</span>
+              <span className="relative z-10">Our VRC Group!</span>
             </button>
           </a>
 
-          <a href="https://discord.gg" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://discord.com/invite/x6SVAjEtD4" target="_blank" rel="noopener noreferrer" className="w-full">
             <button
               className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40
             bg-gradient-to-br from-blue-950/80 via-indigo-950/80 to-violet-950/80 border border-blue-400
@@ -1601,7 +1601,7 @@ export default function Home() {
             </button>
           </a>
 
-          <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://www.tiktok.com/@fallenfurs" target="_blank" rel="noopener noreferrer" className="w-full">
             <button
               className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40
             bg-gradient-to-br from-fuchsia-950/80 via-purple-950/80 to-pink-950/80 border border-fuchsia-400
@@ -1611,17 +1611,17 @@ export default function Home() {
             </button>
           </a>
 
-          <a href="https://twitch.tv" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://instagram.com/fallenfurs" target="_blank" rel="noopener noreferrer" className="w-full">
             <button
               className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40
-            bg-gradient-to-br from-violet-950/80 via-indigo-950/80 to-purple-950/80 border border-violet-400
-            hover:shadow-[0_0_25px_rgba(167,139,250,0.5)] hover:border-violet-300 transition-all duration-300 rounded-md"
+          bg-gradient-to-br from-pink-950/80 via-purple-950/80 to-amber-950/80 border border-pink-400
+          hover:shadow-[0_0_25px_rgba(236,72,153,0.5)] hover:border-pink-300 transition-all duration-300 rounded-md"
             >
-              <span className="relative z-10">Twitch</span>
+              <span className="relative z-10">Instagram</span>
             </button>
           </a>
 
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="w-full">
+          <a href="https://x.com/FallenFurs" target="_blank" rel="noopener noreferrer" className="w-full">
             <button
               className="h-14 text-lg font-medium text-white w-full relative overflow-hidden border-opacity-40
             bg-gradient-to-br from-cyan-950/80 via-blue-950/80 to-indigo-950/80 border border-cyan-400
